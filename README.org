@@ -2,9 +2,8 @@
 
 Flexible documentation generator for Common Lisp projects.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/40ants/doc.git   |
-| commit  | 7f7a782  |
-| systems | doc |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------|
+| source  | git:https://github.com/40ants/doc.git |
+| commit  | b0d3678                               |
+| systems | doc                                   |
+|---------+---------------------------------------|
